@@ -1,2 +1,2 @@
 # KORE_QA_Automation
-KORE QA Automation repoistory
+KORE QA Automation repository
